@@ -20,8 +20,7 @@ All the dependencies are in requirement.txt file
 ## Project details
 
 * Language used : Python
-* Automation Test framework : Selenium
-* Framework : RobotFramework
+* Automation Test framework : Selenium with RobotFramework
 
 ## Project structure
 
