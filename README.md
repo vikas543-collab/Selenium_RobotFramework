@@ -9,7 +9,9 @@ Automate a search website(www.reddit.com) and verify following :
 
 ## Setup
 
-All the dependecies are in requirement.txt file
+All the dependencies are in requirement.txt file
 
 `pip install -r requirements.txt`
+
+:point_up_2: This will install the required dependencies.
 
