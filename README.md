@@ -33,6 +33,6 @@ All the dependencies are in requirement.txt file
 
 ### Steps to execute the test -
 
-`robot "testname"'
-Example - robot Verify_VideoOrder_Chat_Test.robot 
+`robot "testname"`
+Example - `robot Verify_VideoOrder_Chat_Test.robot`
 
