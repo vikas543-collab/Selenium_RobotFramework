@@ -15,3 +15,19 @@ All the dependencies are in requirement.txt file
 
 :point_up_2: This will install the required dependencies.
 
+## Demo of the framework 
+
+## Project details
+
+* Language used : Python
+* Automation Test framework : Selenium
+* Framework : RobotFramework
+
+## Project structure
+
+* src/main/Reusable_Keywords - This stores all userdefined keywords which can be resued and called from anywhere
+
+* src/resources - Stores Locators and Variables
+
+* src/tests - Tests are stored here
+
