@@ -31,3 +31,8 @@ All the dependencies are in requirement.txt file
 
 * src/tests - Tests are stored here
 
+### Steps to execute the test -
+
+`robot "testname"'
+Example - robot Verify_VideoOrder_Chat_Test.robot 
+
