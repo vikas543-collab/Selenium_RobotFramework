@@ -2,20 +2,22 @@
 
 ## Problem Statement
 
-Automate a search website www.reddit.com (My favourite :blush:) and verify following :
+Automate a search website www.reddit.com (my favourite :blush:) and verify following :
 
 * **Login_Test** : Verify if user is able to login correctly
 * **Verify_VideoOrder_Chat_Test** : Verify if listing of popular posts, All posts, Chat functionality is working
 
-## Setup
+## To get started
 
-All the dependencies are in requirement.txt file
+All the dependencies are in requirement.txt file.
 
 `pip install -r requirements.txt`
 
 :point_up_2: This will install the required dependencies.
 
 ## Demo of the framework 
+
+https://drive.google.com/file/d/1qMg8hRj0_6kFxJxQuhwvI1CrTs80D2oD/view?usp=sharing
 
 ## Project details
 
