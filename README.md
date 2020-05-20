@@ -17,7 +17,7 @@ All the dependencies are in requirement.txt file.
 
 ## Demo of the framework 
 
-https://drive.google.com/file/d/1qMg8hRj0_6kFxJxQuhwvI1CrTs80D2oD/view?usp=sharing
+https://drive.google.com/open?id=1qMg8hRj0_6kFxJxQuhwvI1CrTs80D2oD
 
 ## Project details
 
