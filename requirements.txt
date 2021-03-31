@@ -6,7 +6,7 @@ colorama==0.4.3
 configparser==5.0.0
 crayons==0.3.0
 idna==2.9
-lxml==4.5.0
+lxml==4.6.3
 requests==2.23.0
 robotframework==3.2.1
 robotframework-selenium2library==3.0.0
